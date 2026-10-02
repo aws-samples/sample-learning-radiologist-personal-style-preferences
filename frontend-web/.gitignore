@@ -1,0 +1,26 @@
+# Flutter/Dart build artifacts
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# Generated code (freezed, json_serializable, riverpod_generator)
+# Uncomment these if you prefer to regenerate rather than commit
+# *.g.dart
+# *.freezed.dart
+
+# Miscellaneous
+*.log
+*.pyc
+*.swp
+.packages
+.pub-cache/
+.pub/

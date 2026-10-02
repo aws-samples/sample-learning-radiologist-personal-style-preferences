@@ -1,0 +1,14 @@
+[project]
+name = "cipher-lambda"
+version = "0.1.0"
+description = "Lambda proxy for CIPHER agent"
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.35.0",
+    "pydantic>=2.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]

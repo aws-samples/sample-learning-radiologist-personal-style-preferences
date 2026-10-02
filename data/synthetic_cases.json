@@ -1,0 +1,154 @@
+{
+  "cases": [
+    {
+      "case_id": "Case_001",
+      "findings": "PA and lateral views of the chest. The cardiomediastinal silhouette is within normal limits. The lungs are clear without focal consolidation, pleural effusion, or pneumothorax. No acute osseous abnormalities.",
+      "reference_impression": "No acute cardiopulmonary abnormality.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_002",
+      "findings": "Frontal and lateral chest radiographs. Mild cardiomegaly is present. Bibasilar atelectasis noted. No focal consolidation or pleural effusion. No pneumothorax.",
+      "reference_impression": "Mild cardiomegaly with bibasilar atelectasis. No acute pulmonary disease.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_003",
+      "findings": "Single frontal view of the chest. There is a small right pleural effusion. Mild pulmonary vascular congestion. The cardiac silhouette is mildly enlarged. No pneumothorax.",
+      "reference_impression": "Small right pleural effusion with mild pulmonary vascular congestion, possibly representing early heart failure.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_004",
+      "findings": "PA and lateral chest radiographs. Left lower lobe consolidation with air bronchograms. No pleural effusion. Heart size normal. No pneumothorax.",
+      "reference_impression": "Left lower lobe pneumonia.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_005",
+      "findings": "Portable AP chest radiograph. Endotracheal tube tip is 4 cm above the carina. Nasogastric tube tip is in the stomach. Central venous catheter tip is at the cavoatrial junction. Bilateral diffuse airspace opacities. No large pleural effusion or pneumothorax.",
+      "reference_impression": "Bilateral airspace opacities, concerning for ARDS or multifocal pneumonia. Support lines and tubes in satisfactory position.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_006",
+      "findings": "Frontal chest radiograph. Streaky bibasilar opacities consistent with atelectasis. Cardiomediastinal silhouette is normal. No pleural effusion or pneumothorax. Degenerative changes of the thoracic spine.",
+      "reference_impression": "Bibasilar atelectasis. No acute cardiopulmonary process.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_007",
+      "findings": "PA and lateral views of the chest. Moderate cardiomegaly. Bilateral pleural effusions, larger on the right. Pulmonary vascular redistribution. No focal consolidation.",
+      "reference_impression": "Moderate cardiomegaly with bilateral pleural effusions and pulmonary vascular congestion, consistent with congestive heart failure.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_008",
+      "findings": "Single frontal view of the chest. Previously noted right upper lobe nodule is unchanged measuring 1.2 cm. Lungs are otherwise clear. No pleural effusion or pneumothorax. Heart size normal.",
+      "reference_impression": "Stable 1.2 cm right upper lobe pulmonary nodule. Continued surveillance recommended.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_009",
+      "findings": "PA and lateral chest radiographs. Post-surgical changes of median sternotomy. Cardiac silhouette is upper limits of normal. Lungs are clear. No pleural effusion or pneumothorax. Sternal wires intact.",
+      "reference_impression": "Post-CABG changes without acute cardiopulmonary abnormality.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_010",
+      "findings": "Frontal and lateral chest radiographs. Large left pneumothorax with near-complete collapse of the left lung. Rightward mediastinal shift. No pleural effusion on the right.",
+      "reference_impression": "Large left tension pneumothorax with mediastinal shift. Emergent chest tube placement recommended.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_011",
+      "findings": "Portable AP chest radiograph. Right IJ central venous catheter with tip at the cavoatrial junction. Mild pulmonary edema. Small bilateral pleural effusions. Cardiomegaly.",
+      "reference_impression": "Cardiomegaly with mild pulmonary edema and small bilateral pleural effusions. Central line appropriately positioned.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_012",
+      "findings": "PA and lateral views of the chest. Hyperinflated lungs with flattened hemidiaphragms consistent with COPD. No focal consolidation. No pleural effusion or pneumothorax. Heart size normal given degree of hyperinflation.",
+      "reference_impression": "Findings consistent with COPD. No acute pulmonary process.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_013",
+      "findings": "Frontal chest radiograph. Right middle lobe opacity with silhouetting of the right heart border. No pleural effusion. Heart size normal. No pneumothorax.",
+      "reference_impression": "Right middle lobe pneumonia or atelectasis. Clinical correlation recommended.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_014",
+      "findings": "PA and lateral chest radiographs. The lungs are clear. Cardiomediastinal silhouette is normal. No pleural effusion or pneumothorax. Mild degenerative changes of the spine. Calcified granuloma in the right lower lobe.",
+      "reference_impression": "No acute cardiopulmonary abnormality. Incidental calcified granuloma in the right lower lobe, likely sequela of prior granulomatous disease.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_015",
+      "findings": "Single frontal view of the chest. Patchy bilateral airspace opacities predominantly in the lower lobes. No large pleural effusion. Heart size is borderline enlarged. No pneumothorax.",
+      "reference_impression": "Bilateral lower lobe airspace opacities, concerning for aspiration pneumonia or multifocal infectious process.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_016",
+      "findings": "PA and lateral chest radiographs. New 2.5 cm mass in the left upper lobe. No mediastinal lymphadenopathy visible on radiograph. Lungs otherwise clear. No pleural effusion. Heart size normal.",
+      "reference_impression": "New 2.5 cm left upper lobe mass, suspicious for malignancy. CT chest recommended for further evaluation.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_017",
+      "findings": "Portable AP chest radiograph. Diffuse bilateral interstitial opacities. No large pleural effusion or pneumothorax. Heart size difficult to assess due to portable technique.",
+      "reference_impression": "Diffuse bilateral interstitial opacities, differential includes pulmonary edema, viral pneumonia, or interstitial lung disease.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_018",
+      "findings": "PA and lateral views of the chest. Right apical pleural thickening unchanged from prior. Lungs are clear. No pleural effusion or pneumothorax. Cardiomediastinal silhouette normal.",
+      "reference_impression": "Stable right apical pleural thickening. No acute cardiopulmonary abnormality.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_019",
+      "findings": "Frontal chest radiograph. Dual-chamber pacemaker with leads terminating in the right atrium and right ventricle. Heart size mildly enlarged. Lungs are clear. No pleural effusion or pneumothorax.",
+      "reference_impression": "Dual-chamber pacemaker with leads in appropriate position. Mild cardiomegaly. No acute pulmonary process.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_020",
+      "findings": "PA and lateral chest radiographs. Surgical clips in the left axilla consistent with prior lymph node dissection. Left mastectomy changes. Lungs are clear. No pleural effusion or pneumothorax. Heart size normal.",
+      "reference_impression": "Post-left mastectomy and axillary lymph node dissection changes. No acute cardiopulmonary abnormality.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_021",
+      "findings": "Single frontal view of the chest. Elevated right hemidiaphragm. Right basilar atelectasis. No focal consolidation or pleural effusion. Heart size normal. No pneumothorax.",
+      "reference_impression": "Elevated right hemidiaphragm with associated basilar atelectasis. Consider phrenic nerve palsy or subpulmonic process.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_022",
+      "findings": "PA and lateral chest radiographs. Moderate-sized hiatal hernia. Lungs are clear. No pleural effusion or pneumothorax. Cardiomediastinal silhouette otherwise normal.",
+      "reference_impression": "Moderate hiatal hernia. No acute cardiopulmonary abnormality.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_023",
+      "findings": "Portable AP chest radiograph. Bilateral lower lobe consolidations. Small bilateral pleural effusions. Central venous catheter with tip in the SVC. Heart size upper limits of normal.",
+      "reference_impression": "Bilateral lower lobe pneumonia with small pleural effusions. Central line in satisfactory position.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_024",
+      "findings": "PA and lateral views of the chest. Widened mediastinum measuring 9 cm. The aortic knob is prominent and tortuous. Lungs are clear. No pleural effusion or pneumothorax.",
+      "reference_impression": "Widened mediastinum with tortuous aorta. Consider CT chest to evaluate for aortic aneurysm if not recently performed.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    },
+    {
+      "case_id": "Case_025",
+      "findings": "Frontal chest radiograph. There is complete opacification of the left hemithorax with leftward mediastinal shift. No right-sided abnormality. Right lung is clear.",
+      "reference_impression": "Complete left lung collapse, likely due to mucus plugging or endobronchial lesion. Bronchoscopy recommended.",
+      "s3_image_keys": ["placeholder/chest-xray.png"]
+    }
+  ]
+}

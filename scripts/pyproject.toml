@@ -1,0 +1,20 @@
+[project]
+name = "api-test-scripts"
+version = "0.1.0"
+description = "Test scripts for CIPHER API endpoints"
+requires-python = ">=3.11"
+dependencies = [
+    "boto3>=1.35.0",
+    "requests>=2.31.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
+
+[tool.pytest.ini_options]
+markers = [
+    "integration: Integration tests against live API",
+    "slow: Tests that take >5s (LLM calls)",
+]
