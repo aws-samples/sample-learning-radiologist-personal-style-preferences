@@ -10,7 +10,7 @@
 > - [Roadmap](roadmap.md) & [Changelog](CHANGELOG.md) - Open items / completed work
 
 ## Overview
-
+  
 A multi-user system that learns radiologist style preferences from their edits, using the CIPHER algorithm (Gao et al., NeurIPS 2024). Built on AWS Bedrock AgentCore Runtime with Strands framework for serverless agent deployment.
 
 ## High-Level Architecture
